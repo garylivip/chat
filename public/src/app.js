@@ -11,8 +11,8 @@ function onChatSubmit(event) {
     var input = document.getElementById('chat-input');
     var text = input.value;
     input.value = '';
-    onChatMessage(text);
-    socket.emit('chat', text);
+    // onChatMessage(text);
+    socket.emit('msg', text);
 }
 
 document.getElementById('say-button').addEventListener('click', onChatSubmit);
@@ -22,4 +22,4 @@ document.getElementById('chat-input').addEventListener('keypress', function(even
     }
 });
 
-socket.on('chat-back', onChatMessage);
+socket.on('msg', onChatMessage);

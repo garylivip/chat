@@ -11,9 +11,11 @@ app.use(express.static(`${__dirname}/public`));
 io.on('connection', (socket) => {
   console.log('New WebSocket connection');
 
-  socket.on('chat', (message) => {
+  // socket.emit('msg', 'Hi there!');
+
+  socket.on('msg', (message) => {
     console.log('Message:', message);
-    io.emit('chat', `{message} from ${socket.id}`);
+    io.emit("msg", `[User: ${socket.id}] ${message}`);
   });
 
   socket.on('disconnect', () => {
