@@ -1,4 +1,6 @@
-process.env.DEBUG = 'app';
+require('dotenv').config({
+  path: process.env.NODE_ENV === 'production' ? '.env.production' : '.env.development'
+});
 
 const express = require('express');
 const http = require('http');
@@ -16,7 +18,7 @@ const logger = winston.createLogger({
   format: winston.format.combine(
     winston.format.timestamp(),
     winston.format.printf(({ timestamp, level, message }) => {
-      return `${timestamp} [WINSTON] [${level.toUpperCase()}]: ${message}`;
+      return `${timestamp} [${level.toUpperCase()}]: ${message}`;
     })
   ),
   transports: [
@@ -44,9 +46,11 @@ io.on('connection', (socket) => {
   });
 });
 
-server.listen(8080, () => {
-  logger.info('Server started on http://localhost:8080');
-  debug('Server started on http://localhost:8080');
+const HOST = process.env.HOST || 'localhost';
+const PORT = process.env.PORT || 8080;
+server.listen(PORT, HOST, () => {
+  logger.info(`Server started on http://${HOST}:${PORT}`);
+  debug(`Server started on http://${HOST}:${PORT}`);
 }).on('error', (err) => {
   logger.error('Failed to start server:', err);
   debug('Failed to start server:', err);
