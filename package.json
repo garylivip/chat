@@ -3,8 +3,10 @@
     "start": "nodemon main.js"
   },
   "dependencies": {
+    "debug": "^4.4.0",
     "express": "^4.21.2",
-    "socket.io": "^4.8.1"
+    "socket.io": "^4.8.1",
+    "winston": "^3.17.0"
   },
   "devDependencies": {
     "nodemon": "^3.1.9"

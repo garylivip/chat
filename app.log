@@ -1,0 +1,77 @@
+2025-01-09T02:16:23.612Z [INFO]: Server started on http://localhost:8080
+2025-01-09T02:19:07.063Z [INFO]: New WebSocket connection
+2025-01-09T02:19:20.281Z [INFO]: Message: Hi there
+2025-01-09T02:19:24.317Z [INFO]: New WebSocket connection
+2025-01-09T02:19:35.625Z [INFO]: Message: Hi there, Gary is here
+2025-01-09T02:20:04.080Z [INFO]: Message: Nice to see you, Gary! I am James.
+2025-01-09T02:20:51.978Z [INFO]: Message: Nice to see you James too. How's your day?
+2025-01-09T02:23:06.770Z [INFO]: Message: Thank you Gary! I am doing great! Yourself?
+2025-01-09T02:23:48.760Z [INFO]: Message: not so good cause the weather gets incredibly cold
+2025-01-09T02:24:41.580Z [INFO]: Server started on http://localhost:8080
+2025-01-09T02:24:42.827Z [INFO]: New WebSocket connection
+2025-01-09T02:24:43.722Z [INFO]: New WebSocket connection
+2025-01-09T02:24:49.416Z [INFO]: User disconnected
+2025-01-09T02:24:49.439Z [INFO]: New WebSocket connection
+2025-01-09T02:24:53.685Z [INFO]: User disconnected
+2025-01-09T02:24:53.716Z [INFO]: New WebSocket connection
+2025-01-09T02:25:01.901Z [INFO]: Message: Hi there
+2025-01-09T02:25:15.366Z [INFO]: Message: Hi there, Gary is here
+2025-01-09T02:26:18.420Z [INFO]: Server started on http://localhost:8080
+2025-01-09T02:26:18.652Z [INFO]: New WebSocket connection: LU8yVflwjtqMHluFAAAB
+2025-01-09T02:26:19.720Z [INFO]: New WebSocket connection: 5bjnr6jaav6g6dchAAAD
+2025-01-09T02:26:43.392Z [INFO]: Message from 5bjnr6jaav6g6dchAAAD: Hi Gary, I noticed the service restarted
+2025-01-09T02:27:03.585Z [INFO]: Message from LU8yVflwjtqMHluFAAAB: Really, let double check
+2025-01-09T02:27:34.134Z [INFO]: Message from LU8yVflwjtqMHluFAAAB: it's true, my session id got changed
+2025-01-09T02:36:03.602Z [INFO]: Server started on http://localhost:8080
+2025-01-09T02:36:06.724Z [INFO]: New WebSocket connection: cp7ghu5ybjIhJj3lAAAC
+2025-01-09T02:36:06.731Z [INFO]: New WebSocket connection: qh0G39suwKMloNFIAAAD
+2025-01-09T02:36:59.735Z [INFO]: Message from qh0G39suwKMloNFIAAAD: Hello James, I hear that another Log tool - debug , got added in parallel with Winston, just for practice purpose
+2025-01-09T02:37:31.345Z [INFO]: Message from cp7ghu5ybjIhJj3lAAAC: hello Gary, nice to know that. any difference it made?
+2025-01-09T02:39:59.422Z [WINSTON] [INFO]: Server started on http://localhost:8080
+2025-01-09T02:39:59.653Z [WINSTON] [INFO]: New WebSocket connection: iWICvCSehQ9XaXhNAAAB
+2025-01-09T02:40:00.712Z [WINSTON] [INFO]: New WebSocket connection: 12dPVNnecTvqi-j9AAAD
+2025-01-09T02:41:27.852Z [WINSTON] [INFO]: Message from iWICvCSehQ9XaXhNAAAB: there was bug, as the log item is exactly the same, it got overwrote. now one more indicator added, it should work now
+2025-01-09T02:42:01.828Z [WINSTON] [INFO]: Message from iWICvCSehQ9XaXhNAAAB: really?
+2025-01-09T02:42:23.306Z [WINSTON] [INFO]: Message from iWICvCSehQ9XaXhNAAAB: I see info from Winston, but where is debug?
+2025-01-09T02:43:08.441Z [WINSTON] [INFO]: Server started on http://localhost:8080
+2025-01-09T02:43:08.646Z [WINSTON] [INFO]: New WebSocket connection: b3vxEzc5BJNba0OeAAAB
+2025-01-09T02:43:09.718Z [WINSTON] [INFO]: New WebSocket connection: TeIrn6aFI2y84S0vAAAD
+2025-01-09T02:43:12.961Z [WINSTON] [INFO]: Server started on http://localhost:8080
+2025-01-09T02:43:13.964Z [WINSTON] [INFO]: Server started on http://localhost:8080
+2025-01-09T02:43:13.982Z [WINSTON] [INFO]: New WebSocket connection: LpfevCVFMFjDodLSAAAC
+2025-01-09T02:43:13.986Z [WINSTON] [INFO]: New WebSocket connection: CesjPN22IeP8Pv0MAAAD
+2025-01-09T02:43:23.312Z [WINSTON] [INFO]: Server started on http://localhost:8080
+2025-01-09T02:43:23.719Z [WINSTON] [INFO]: New WebSocket connection: slOFFoCNw75b5t0gAAAB
+2025-01-09T02:43:24.716Z [WINSTON] [INFO]: New WebSocket connection: M_VaQ8cKZZhej7zaAAAD
+2025-01-09T02:43:32.237Z [WINSTON] [INFO]: Server started on http://localhost:8080
+2025-01-09T02:43:33.085Z [WINSTON] [INFO]: New WebSocket connection: ieys2QeJT9lica8OAAAB
+2025-01-09T02:43:33.719Z [WINSTON] [INFO]: New WebSocket connection: x09Hhtyp0SEx6VZ0AAAD
+2025-01-09T02:43:36.347Z [WINSTON] [INFO]: Server started on http://localhost:8080
+2025-01-09T02:43:37.079Z [WINSTON] [INFO]: New WebSocket connection: qOQCE22xcuXjKensAAAB
+2025-01-09T02:43:37.718Z [WINSTON] [INFO]: New WebSocket connection: 96QFROzDmUYStcPNAAAD
+2025-01-09T02:43:39.515Z [WINSTON] [INFO]: Server started on http://localhost:8080
+2025-01-09T02:43:39.867Z [WINSTON] [INFO]: New WebSocket connection: ivxRTow5apKjANGPAAAB
+2025-01-09T02:43:40.711Z [WINSTON] [INFO]: New WebSocket connection: 7JIQ8UuBmATF9zlBAAAD
+2025-01-09T02:47:31.179Z [WINSTON] [INFO]: Server started on http://localhost:8080
+2025-01-09T02:47:34.725Z [WINSTON] [INFO]: New WebSocket connection: FW6P298LcKOgrEtFAAAC
+2025-01-09T02:47:34.729Z [WINSTON] [INFO]: New WebSocket connection: JNAbji6DEfMVac59AAAD
+2025-01-09T02:47:44.344Z [WINSTON] [INFO]: Message from FW6P298LcKOgrEtFAAAC: Hi James
+2025-01-09T02:48:08.231Z [WINSTON] [INFO]: Server started on http://localhost:8080
+2025-01-09T02:48:08.428Z [WINSTON] [INFO]: New WebSocket connection: QFu5Ih434txe7ziVAAAB
+2025-01-09T02:48:09.701Z [WINSTON] [INFO]: New WebSocket connection: F0_yonmdvi_fKMnvAAAD
+2025-01-09T02:50:15.077Z [WINSTON] [INFO]: Server started on http://localhost:8080
+2025-01-09T02:50:16.737Z [WINSTON] [INFO]: New WebSocket connection: lifjZxrjtYxZN7DaAAAC
+2025-01-09T02:50:16.738Z [WINSTON] [INFO]: New WebSocket connection: uwYHVomcJ8fkRISVAAAD
+2025-01-09T02:50:54.377Z [WINSTON] [INFO]: Message from lifjZxrjtYxZN7DaAAAC: Hi, does it work?
+2025-01-09T02:51:05.639Z [WINSTON] [INFO]: Server started on http://localhost:8080
+2025-01-09T02:51:05.739Z [WINSTON] [INFO]: New WebSocket connection: 2BldEqeNanOG0HNzAAAB
+2025-01-09T02:51:08.521Z [WINSTON] [INFO]: New WebSocket connection: mK9Mz6vwjUDEliGrAAAD
+2025-01-09T02:51:35.467Z [WINSTON] [INFO]: Server started on http://localhost:8080
+2025-01-09T02:51:35.646Z [WINSTON] [INFO]: New WebSocket connection: rgt19Y3HObrp7cneAAAB
+2025-01-09T02:51:35.708Z [WINSTON] [INFO]: New WebSocket connection: p62-Qq-dn4L1xTseAAAD
+2025-01-09T02:51:46.831Z [WINSTON] [INFO]: Message from rgt19Y3HObrp7cneAAAB: how about now？
+2025-01-09T02:54:13.252Z [WINSTON] [INFO]: Server started on http://localhost:8080
+2025-01-09T02:54:13.301Z [WINSTON] [INFO]: New WebSocket connection: FFccPUpf79H7NrAnAAAB
+2025-01-09T02:54:20.962Z [WINSTON] [INFO]: Server started on http://localhost:8080
+2025-01-09T02:54:22.727Z [WINSTON] [INFO]: New WebSocket connection: -T2ooIRmNrevcAYJAAAB
+2025-01-09T02:54:25.722Z [WINSTON] [INFO]: New WebSocket connection: azSRqgvd0l6DcEmlAAAD
