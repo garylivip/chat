@@ -1,0 +1,134 @@
+2025-01-09T06:53:06.243Z [INFO]: Server started on http://localhost:9001 
+2025-01-09T06:54:08.568Z [INFO]: Server started on http://localhost:9002 
+2025-01-09T06:54:40.996Z [INFO]: New WebSocket connection: 0Ru2ePWi6tspV-X9AAAB
+2025-01-09T06:54:45.052Z [INFO]: Message from 0Ru2ePWi6tspV-X9AAAB: Hello
+2025-01-09T06:54:51.264Z [INFO]: New WebSocket connection: 0BNkcqWlCR5oPc6uAAAB
+2025-01-09T06:54:55.886Z [INFO]: Message from 0BNkcqWlCR5oPc6uAAAB: Hi
+2025-01-09T07:14:18.751Z [INFO]: Message from 0BNkcqWlCR5oPc6uAAAB: hi there
+2025-01-09T07:14:46.765Z [INFO]: Message from 0BNkcqWlCR5oPc6uAAAB: what
+2025-01-09T07:17:27.192Z [INFO]: Message from 0BNkcqWlCR5oPc6uAAAB: no no no no
+2025-01-09T07:25:57.631Z [INFO]: Server started on http://localhost:9001 
+2025-01-09T07:25:57.648Z [INFO]: Server started on http://localhost:9002 
+2025-01-09T07:25:57.703Z [INFO]: New WebSocket connection: j0kEpTmT8yo10z0DAAAB
+2025-01-09T07:25:57.696Z [INFO]: New WebSocket connection: 63yUpqYlwO0HhlYRAAAB
+2025-01-09T07:26:15.993Z [INFO]: User disconnected: 63yUpqYlwO0HhlYRAAAB
+2025-01-09T07:26:16.015Z [INFO]: New WebSocket connection: Rpg-yPQr2wZiIwIuAAAD
+2025-01-09T07:26:18.196Z [INFO]: User disconnected: j0kEpTmT8yo10z0DAAAB
+2025-01-09T07:26:18.224Z [INFO]: New WebSocket connection: kRt8X9NP2_8W0_3GAAAD
+2025-01-09T07:32:26.185Z [INFO]: Server started on http://localhost:9003 
+2025-01-09T07:32:26.324Z [INFO]: Server started on http://localhost:9003 
+2025-01-09T07:32:26.477Z [INFO]: Server started on http://localhost:9003 
+2025-01-09T07:32:26.709Z [INFO]: Server started on http://localhost:9003 
+2025-01-09T07:32:26.910Z [INFO]: Server started on http://localhost:9003 
+2025-01-09T07:32:27.098Z [INFO]: Server started on http://localhost:9003 
+2025-01-09T07:32:27.250Z [INFO]: Server started on http://localhost:9003 
+2025-01-09T07:32:27.450Z [INFO]: Server started on http://localhost:9003 
+2025-01-09T07:32:27.655Z [INFO]: Server started on http://localhost:9003 
+2025-01-09T07:32:27.854Z [INFO]: Server started on http://localhost:9003 
+2025-01-09T07:32:28.071Z [INFO]: Server started on http://localhost:9003 
+2025-01-09T07:32:28.270Z [INFO]: Server started on http://localhost:9003 
+2025-01-09T07:32:28.467Z [INFO]: Server started on http://localhost:9003 
+2025-01-09T07:32:28.689Z [INFO]: Server started on http://localhost:9003 
+2025-01-09T07:32:28.856Z [INFO]: Server started on http://localhost:9003 
+2025-01-09T07:32:28.939Z [INFO]: Server started on http://localhost:9003 
+2025-01-09T07:32:29.171Z [INFO]: Server started on http://localhost:9003 
+2025-01-09T07:32:29.305Z [INFO]: Server started on http://localhost:9003 
+2025-01-09T07:32:29.458Z [INFO]: Server started on http://localhost:9003 
+2025-01-09T07:32:29.627Z [INFO]: Server started on http://localhost:9003 
+2025-01-09T07:33:19.614Z [INFO]: User disconnected: Rpg-yPQr2wZiIwIuAAAD
+2025-01-09T07:33:19.638Z [INFO]: New WebSocket connection: Df_CrTtX58TSIz4SAAAF
+2025-01-09T07:33:22.350Z [INFO]: User disconnected: kRt8X9NP2_8W0_3GAAAD
+2025-01-09T07:33:22.371Z [INFO]: New WebSocket connection: 5xnxsakABv7Ytl-jAAAF
+2025-01-09T07:33:28.198Z [INFO]: New WebSocket connection: -dpxdesbgumXd7-VAAAB
+2025-01-09T07:33:33.153Z [INFO]: Message from -dpxdesbgumXd7-VAAAB: what
+2025-01-09T07:35:04.105Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:35:07.269Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:35:10.461Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:35:13.700Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:35:16.850Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:35:19.980Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:35:23.147Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:35:26.300Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:35:29.470Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:35:32.680Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:35:35.879Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:35:39.032Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:35:42.194Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:35:45.387Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:35:48.547Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:35:51.742Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:35:54.928Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:35:58.119Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:36:01.263Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:36:04.406Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:36:07.596Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:36:10.737Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:36:13.985Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:36:17.146Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:36:20.289Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:36:23.487Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:36:26.625Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:36:29.818Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:36:33.105Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:36:36.151Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:36:39.331Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:36:42.563Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:36:45.712Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:36:48.881Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:36:52.054Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:36:55.373Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:36:58.448Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:37:01.600Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:37:04.765Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:37:07.985Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:37:11.150Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:37:14.301Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:37:17.450Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:37:20.605Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:37:23.792Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:37:26.955Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:37:30.122Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:37:33.278Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:37:36.513Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:37:39.736Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:37:42.875Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:37:46.099Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:37:49.216Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:37:52.309Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:37:55.509Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:37:58.684Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:38:01.927Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:38:05.011Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:38:08.252Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:38:11.491Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:38:14.743Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:38:17.918Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:38:21.073Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:38:24.317Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:38:27.437Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:38:30.596Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:38:33.792Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:38:36.941Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:38:40.144Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:38:43.291Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:38:46.484Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:38:49.652Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:38:52.799Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:38:55.970Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:38:59.151Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:39:02.301Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:39:05.502Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:39:08.648Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:39:11.848Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:39:15.041Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:39:18.150Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:39:21.357Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:39:24.491Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:39:27.704Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:39:30.852Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:39:33.991Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:39:37.160Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:39:40.349Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:39:43.526Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:39:46.717Z [ERROR]: Failed to start server: listen EADDRINUSE: address already in use 127.0.0.1:9001
+2025-01-09T07:39:49.909Z [INFO]: Server started on http://localhost:9001 
